@@ -6,8 +6,9 @@
     background: #fff;
     display: flex;
     align-items: center;
-    //justify-content: space-between;
     padding: 0 150px;
+
+    position: fixed;
 
     &-logo.custom-icon {
         height: 32px;

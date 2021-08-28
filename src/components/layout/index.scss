@@ -1,11 +1,11 @@
 .layout {
     height: 100%;
-    border: solid 1px green;
     min-width: 1050px;
 
     &-main {
-        height: calc(100% - 52px);
-        padding-top: 8px;
+        height: 100%;
+        //height: calc(100% - 52px);
+        padding-top: 58px;
         background: #f6f6f6;
         display: flex;
         justify-content: center;
