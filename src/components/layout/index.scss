@@ -1,0 +1,18 @@
+.layout {
+    height: 100%;
+    border: solid 1px green;
+
+    &-main {
+        height: calc(100% - 52px);
+        padding-top: 8px;
+        background: #f6f6f6;
+        display: flex;
+        justify-content: center;
+
+        &-content {
+            width: 700px;
+            border: solid 1px yellow;
+            margin-right: 8px;
+        }
+    }
+}
