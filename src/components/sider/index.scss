@@ -1,5 +1,6 @@
 .sider {
-    width: 290px;
-    height: 300px;
+    min-width: 290px;
+    min-height: 300px;
+    max-height: 300px;
     border: solid 1px red;
 }
