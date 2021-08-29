@@ -8,10 +8,12 @@
   },
   "dependencies": {
     "antd": "^4.16.13",
+    "axios": "^0.21.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-router-dom": "^5.2.0",
-    "sass": "^1.38.1"
+    "sass": "^1.38.1",
+    "swr": "^1.0.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
